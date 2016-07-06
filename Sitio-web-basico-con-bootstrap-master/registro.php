@@ -63,7 +63,10 @@
 		</div>
 	</section>
 
-	
+	<div>
+			<h2>Otro cambio en esto a ver que pasa	</h2>
+	</div>
+
 
 	<script src="js/jquery.js"></script>
 	<script src="js/bootstrap.min.js"></script>
